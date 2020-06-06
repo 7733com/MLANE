@@ -22,6 +22,8 @@ numpy==1.16.2
 [SDNE](https://github.com/thunlp/OpenNE)
 [LINE](https://github.com/tangjianpku/LINE)
 [HOPE](https://github.com/ZW-ZHANG/HOPE)
+[AttentionWalk](https://github.com/benedekrozemberczki/AttentionWalk)
+[ProNE](https://github.com/THUDM/ProNE)
 [RiWalk](https://github.com/maxuewei2/RiWalk)
 [Role2Vec](https://github.com/benedekrozemberczki/role2vec)
 [struc2vec](https://github.com/leoribeiro/struc2vec)
