@@ -2,7 +2,7 @@
 This repository provides an implementation of MLANE: Meta-Learning based Adaptive Network Embedding
 
 ## Usage
-`$ python main.py`
+`$ python src/main.py`
 
 ## Input
 Your input graph should be an **edgelist** file and make sure it under **data** folder
@@ -28,7 +28,6 @@ numpy==1.16.2
 [Role2Vec](https://github.com/benedekrozemberczki/role2vec)
 [struc2vec](https://github.com/leoribeiro/struc2vec)
 [DRNE](https://github.com/tadpole/DRNE)
-
 
 ## Acknowledgements
 We refer to [GraphEmbedding](https://github.com/shenweichen/GraphEmbedding) while constructing code framework. Thanks to the contributors for making their codes available. 
