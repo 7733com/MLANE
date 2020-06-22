@@ -24,10 +24,12 @@ numpy==1.16.2
 [HOPE](https://github.com/ZW-ZHANG/HOPE)
 [AttentionWalk](https://github.com/benedekrozemberczki/AttentionWalk)
 [ProNE](https://github.com/THUDM/ProNE)
+[GAT](https://github.com/PetarV-/GAT)
 [RiWalk](https://github.com/maxuewei2/RiWalk)
 [Role2Vec](https://github.com/benedekrozemberczki/role2vec)
 [struc2vec](https://github.com/leoribeiro/struc2vec)
 [DRNE](https://github.com/tadpole/DRNE)
+
 
 ## Acknowledgements
 We refer to [GraphEmbedding](https://github.com/shenweichen/GraphEmbedding) while constructing code framework. Thanks to the contributors for making their codes available. 
