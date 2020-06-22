@@ -261,9 +261,6 @@ class MLANE:
 
 
 class MLPPolicy(nn.Module):
-    '''
-    Works when input dimension is low.
-    '''
     def __init__(self, input_dim, hidden_dims, activations=None, output_dim=3):
         super(MLPPolicy, self).__init__()
         dims = [input_dim] + hidden_dims + [output_dim]
@@ -282,4 +279,3 @@ class MLPPolicy(nn.Module):
         for linear, activation in zip(self.linears, self.activations):
             x_hat = activation(linear(x_hat))
         return x_hat
-
